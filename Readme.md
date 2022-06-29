@@ -1,4 +1,4 @@
-Reduce power consumption of an Electric Water Heater using Reinforcement Learning methods.
+## Reduce power consumption of an Electric Water Heater using Reinforcement Learning methods.
 
 Electricity prices have risen significantly year on year and reducing energy use in homes can save money, improve energy security and reduce pollution from non-renewable energy sources. Whether to lower the monthly electricity bills or be concerned about the home's carbon footprint, reducing energy is helpful. The best way to start saving on electricity costs is to get smart with how electricity is being used.
 
